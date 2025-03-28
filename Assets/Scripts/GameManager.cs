@@ -105,16 +105,16 @@ public class GameManager : MonoBehaviour
     /// </summary>
     public void _OnClickedMole() 
     {
-        gameScore++;
-        scoreText.text = "Score: " + gameScore;
+       
+
     }
     public void _OnClickedResetGame()
     {
-        SceneManager.LoadScene(1);
+
     }
     public void _OnClickedMainMenu()
     {
-        SceneManager.LoadScene(0);
+
     }
 
 }///LAST BRACKET DON'T GO PAST THIS!

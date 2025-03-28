@@ -11,7 +11,7 @@ public class MainMenuScript : MonoBehaviour
 
     public void _OnClickedStartGame()
     {
-        SceneManager.LoadScene(1);
+        
     }
 
 }//last bracket, DON'T GO PAST! 
